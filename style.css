@@ -1,0 +1,12 @@
+
+.user {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    margin-bottom: 10px;
+}
+
+.user img {
+  border-radius: 50%;
+  margin-right: 10px;
+}
