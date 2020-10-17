@@ -3,4 +3,4 @@
 ## Descrição do Projeto
 <p align="justify"> Projeto devenvolvido durante o  Módulo 1 do Bootcamp FullStack IGTI </p>
 
-> Status do Projeto: Em desenvolvimento :warning:
+
